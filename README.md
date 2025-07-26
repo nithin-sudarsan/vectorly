@@ -20,7 +20,7 @@ Train on example sentences, then query to find the most similar ones with simila
 
 1. Clone the repository:
     ```sh
-    git clone <repo-url>
+    git clone https://github.com/nithin-sudarsan/vectorly.git
     cd vectorly
     ```
 2. Install dependencies:
