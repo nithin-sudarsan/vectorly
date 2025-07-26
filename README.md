@@ -129,9 +129,3 @@ python main.py <command>
 
 - **CLI:**  
   - Uses `argparse` for command parsing and interactive input for feeding/querying phrases.
-
----
-
-## License
-
-MIT
